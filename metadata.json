@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Particle System",
+  "description": "A 3D particle system with hand gesture control",
+  "requestFramePermissions": ["camera"]
+}
