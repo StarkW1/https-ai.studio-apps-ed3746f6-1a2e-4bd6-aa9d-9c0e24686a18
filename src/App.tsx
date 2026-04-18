@@ -103,7 +103,7 @@ export default function App() {
       <div className="absolute top-0 left-0 w-full p-8 z-10 pointer-events-none flex justify-between items-start">
         <div>
           <h1 className="text-2xl font-light tracking-widest text-white/90">
-            AI驱动的<span className="font-bold text-white">交互空间创新</span>
+            虚拟仿真驱动的<span className="font-bold text-white">交互空间创新</span>
           </h1>
           <p className="text-[10px] text-white/40 mt-2 tracking-[0.2em] uppercase">Interactive 3D Experience</p>
           <p className="text-[10px] text-[#00ffcc]/80 mt-1 tracking-[0.2em] uppercase font-bold">Yintong Wang</p>
